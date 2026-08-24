@@ -20,7 +20,7 @@ WhatsApp has over 2 billion users worldwide. This list focuses on open-source pr
 
 ## Featured
 
-- [SARA](https://github.com/Alessandro114/sara) [![GitHub stars](https://img.shields.io/github/stars/Alessandro114/sara?style=social)](https://github.com/Alessandro114/sara) - Open-source WhatsApp AI agent with 20 industry-specific brains (DineOS, RetailOS, HealthOS, and more). Self-hostable with Docker, multi-tenant, white-label ready. Built on AGPL-3.0.
+- [SARA](https://github.com/Alessandro114/sara) - Open-source WhatsApp AI agent with 20 industry-specific brains (DineOS, RetailOS, HealthOS, and more). Self-hostable with Docker, multi-tenant, white-label ready. Built on AGPL-3.0.
 
 ---
 
@@ -59,7 +59,6 @@ WhatsApp has over 2 billion users worldwide. This list focuses on open-source pr
 ## Business API Wrappers
 
 - [whatsapp-api-js](https://github.com/Secreto31126/whatsapp-api-js) - Lightweight, dependency-free TypeScript library for interacting with the official WhatsApp Cloud API. Supports all message types, webhooks, and template management.
-- [Evolution API](https://github.com/evolutionapi/evolution-api) - Full-featured open-source wrapper for the WhatsApp Business API with multi-instance support, REST endpoints, and native integrations with popular tools.
 
 ---
 
@@ -106,10 +105,3 @@ WhatsApp has over 2 billion users worldwide. This list focuses on open-source pr
 
 Contributions are welcome! Please read the [contributing guide](contributing.md) before opening a pull request.
 
----
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Alessandro Binda](https://github.com/Alessandro114) has waived all copyright and related or neighboring rights to this work.
