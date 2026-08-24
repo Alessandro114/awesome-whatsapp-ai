@@ -104,7 +104,7 @@ WhatsApp has over 2 billion users worldwide. This list focuses on open-source pr
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guide](CONTRIBUTING.md) before opening a pull request.
+Contributions are welcome! Please read the [contributing guide](contributing.md) before opening a pull request.
 
 ---
 
