@@ -69,6 +69,7 @@ WhatsApp has over 2 billion users worldwide. This list focuses on open-source pr
 - [Dify](https://github.com/langgenius/dify) - Agentic workflow and RAG pipeline platform with rich AI model and tool support. Can be integrated with WhatsApp via webhook connectors.
 - [Chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, and omni-channel desk with native WhatsApp Business API integration and AI-assist features.
 - [BotMan](https://github.com/botman/botman) - Framework-agnostic PHP library for building chatbots across multiple messaging platforms including WhatsApp.
+- [DOS AI](https://dosai.pro/) - No-code platform for an AI assistant in WhatsApp, Instagram and Telegram with a built-in CRM. You describe the bot in plain text; it answers customers in their language, books appointments, sends invoices in the chat and hands over to a human when needed. WhatsApp connects by QR as a linked device.
 
 ---
 
